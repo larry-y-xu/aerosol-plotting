@@ -1,9 +1,9 @@
 # aerosol-plotting
-**Reads in and compares the annual and seasonal differences in black carbon concentration between observation and model data
+Reads in and compares the annual and seasonal differences in black carbon concentration between observation and model data
 
 Output is in the form of difference plot image files, both annual and seasonal
 
-The program, bc_plots.py consists of three main components. 
+**The program, bc_plots.py consists of three main components.**
 * The first, the function read_observation_data, reads in the observation data from stations in Canada, the United States, Europe and the Arctic. 
 The year range of the data is filtered according to the variables in `config.yaml`, the mean is taken by grouping together latitude and longitude
 to obtain the site concentrations of black carbon.
