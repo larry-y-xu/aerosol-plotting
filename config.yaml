@@ -1,0 +1,5 @@
+setup_variables:
+  models: [CanAM5PAM, CESM, DEHM, ECHAM-SALSA, FLEXPART, GEOS-CHEM, MATCH, MRI-ESM, NorESM, OsloCTM, UKESM1]
+  year_start: 2014
+  year_end: 2015
+  seasonal: True
