@@ -15,6 +15,9 @@ underlying NetCDF file format.
 
 **Running the program**
 1.Adjust `config.yaml`
+
 2.Change the filepaths for the observation data, and for each of the individual models
+
 3.Install requirement.txt with pip
+
 4.Run the program
