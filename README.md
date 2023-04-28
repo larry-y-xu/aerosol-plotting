@@ -14,6 +14,7 @@ underlying NetCDF file format.
 * The third functions, plot and plot_seasonal use a combination of cartopy and matplotlib to plot the data
 
 **Running the program**
+
 1.Adjust `config.yaml`
 
 2.Change the filepaths for the observation data, and for each of the individual models
